@@ -75,7 +75,7 @@ enum ListingAmenities: Int, Codable , Identifiable, Hashable {
         case .kitchen: return "Kitchen"
         case .wifi: return "Wifi"
         case .laundry: return "Laundary"
-        case .tv: return "Tv"
+        case .tv: return "TV"
         case .alarmSystem: return "Alarm system"
         case .office: return "Office"
         case .balcony: return "Balcony"
